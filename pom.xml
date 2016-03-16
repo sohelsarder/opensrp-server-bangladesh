@@ -9,6 +9,7 @@
   <description>This is bangladesh site code for opensrp server.</description>
   <modules>
     <module>opensrp-server-bangladesh-api</module>
+    <module>opensrp-server-bangladesh-web</module>
   </modules>
   <dependencies>
   	<dependency>
